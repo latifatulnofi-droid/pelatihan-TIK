@@ -10,11 +10,11 @@ body {
    padding: 20px;
    background-color: white;
   border-radius: 15px; /*Membuat sudut menjadi melengkung */
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */
+  box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* Efek bayangan */
   text-align: cente; /* Menengahkan semua teks di dalam kartu */
 }
 
 .kartun-profil img {
   width: 150px;
-  border-radius: 50px; /*Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
+  border-radius: 50%; /*Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
 }
